@@ -1,5 +1,6 @@
 class ganesh{
 		public static void main(string[] args) {
 		system.out.println("This is my first program");
+		system. out println("this is second line");
 }
 }
